@@ -5,6 +5,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]serSettings/
+# 追加の一時ファイル除外
+/[Cc]a/
 
 
 /[Pp]ackages/
