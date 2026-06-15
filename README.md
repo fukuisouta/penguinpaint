@@ -12,6 +12,7 @@
 画面をタッチで線を引くだけです！
 
 ーーー注意ーーー
+
 フォントファイルのサイズが大きかったため現在のプロジェクトにはフォントが無く日本語が表示されない状態になっています
 
 https://drive.google.com/drive/folders/1MFHXdCSq0SUCZd2jpBl2iCmY9z7xnvAc?usp=drive_link
