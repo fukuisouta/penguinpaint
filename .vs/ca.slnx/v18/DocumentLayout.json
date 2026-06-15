@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\ca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\direction\\shake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\direction\\shake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\kurukuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\kurukuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\objectrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\objectrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\system\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\lineautodestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\lineautodestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\inkrefillitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\inkrefillitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\inkpenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\inkpenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\inkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\inkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\vanishingline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\vanishingline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\pen\\infinitemagicpen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pen\\infinitemagicpen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\stageselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\stageselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\retrymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\retrymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unityprojects\\ca\\assets\\script\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shake.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Direction\\Shake.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Direction\\Shake.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Direction\\Shake.cs",
+              "RelativeToolTip": "Assets\\Script\\Direction\\Shake.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:34:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:31:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "objectRotate.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\objectRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\objectRotate.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\objectRotate.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\objectRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:30:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kurukuru.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\kurukuru.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\kurukuru.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\kurukuru.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\kurukuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:30:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\FPSController.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\FPSController.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\FPSController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:29:49.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destroyer.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\Destroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\Destroyer.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\Destroyer.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\Destroyer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:24:22.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniMap.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\MiniMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\MiniMap.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\MiniMap.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\MiniMap.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:24:05.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\LevelGenerator.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\LevelGenerator.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:23:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackGround.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\BackGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\system\\BackGround.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\system\\BackGround.cs",
+              "RelativeToolTip": "Assets\\Script\\system\\BackGround.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:21:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LineDrawer.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\LineDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\LineDrawer.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\LineDrawer.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\LineDrawer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:21:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LineAutoDestruct.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\LineAutoDestruct.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\LineAutoDestruct.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\LineAutoDestruct.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\LineAutoDestruct.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:20:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InkRefillItem.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkRefillItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\InkRefillItem.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkRefillItem.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\InkRefillItem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:20:35.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InkPenScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkPenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\InkPenScript.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkPenScript.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\InkPenScript.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:19:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InkManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\InkManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InkManager.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\InkManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:29:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VanishingLine.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\VanishingLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\VanishingLine.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\VanishingLine.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\VanishingLine.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:28:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfiniteMagicPen.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InfiniteMagicPen.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pen\\InfiniteMagicPen.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\pen\\InfiniteMagicPen.cs",
+              "RelativeToolTip": "Assets\\Script\\pen\\InfiniteMagicPen.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:28:02.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StageSelectManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\StageSelectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\StageSelectManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\StageSelectManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\StageSelectManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:25:49.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\ScoreManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\ScoreManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:25:29.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RetryManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\RetryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\RetryManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\RetryManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\RetryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:25:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResultManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\ResultManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\ResultManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\ResultManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\ResultManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:24:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameOverUIManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\GameOverUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameOverUIManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\GameOverUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\GameOverUIManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:24:38.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\UnityProjects\\ca\\Assets\\Script\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAQwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:23:21.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
