@@ -5,14 +5,13 @@
 /Builds/
 /Logs/
 /UserSettings/
+/.vs/
+/.utmp/
 /ca/
-
-/Packages/
-!/Packages/manifest.json
-!/Packages/packages-lock.json
+/exe/
 
 .DS_Store
 Thumbs.db
-
-Assets/font.asset
-Assets/font.asset.meta
+*.csproj
+*.sln
+*.slnx
