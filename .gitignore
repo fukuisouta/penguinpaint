@@ -1,18 +1,15 @@
-/[尝]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]serSettings/
-# 追加の一時ファイル除外
-/[Cc]a/
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/ca/
 
-
-/[Pp]ackages/
-!/[Pp]ackages/manifest.json
-!/[Pp]ackages/packages-lock.json
-
+/Packages/
+!/Packages/manifest.json
+!/Packages/packages-lock.json
 
 .DS_Store
 Thumbs.db
