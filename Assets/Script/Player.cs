@@ -152,7 +152,7 @@ public class Player : MonoBehaviour
     {
         if (isChangingScene) return;
         ButtonManager.SaveCurrentScene();
-        ChangeScene("2_GameOver");
+        ChangeScene("3,2GameOver");
     }
 
     private void ChangeScene(string sceneName)
@@ -164,7 +164,7 @@ public class Player : MonoBehaviour
         {
             m_fade.FadeOut(1.5f, () =>
             {
-                SceneManager.LoadScene("3,2GameOver");
+                SceneManager.LoadScene(sceneName);
             });
         }
         else
