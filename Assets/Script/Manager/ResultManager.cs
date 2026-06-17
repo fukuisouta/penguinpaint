@@ -49,7 +49,7 @@ public class ResultManager : MonoBehaviour
     /// </summary>
     public void OnRetryButton()
     {
-        PlayTransition("ENDLESS");
+        PlayTransition("2,4ENDLESS");
     }
 
     /// <summary>
@@ -57,7 +57,7 @@ public class ResultManager : MonoBehaviour
     /// </summary>
     public void OnTitleButton()
     {
-        PlayTransition("Title");
+        PlayTransition("0,Title");
     }
 
     // --- フェード演出の共通処理 ---

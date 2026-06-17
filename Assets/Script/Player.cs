@@ -34,6 +34,9 @@ public class Player : MonoBehaviour
 
     [SerializeField] private DamageEffect m_damageEffect;
 
+    [SerializeField, Header("スコアマネージャーの参照")]
+    private ScoreManager scoreManager;
+
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
@@ -148,11 +151,33 @@ public class Player : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// ゲームオーバー時の遷移先を判定し、スコアを保存してシーンを切り替える
+    /// </summary>
     private void DetermineGameOverScene()
     {
         if (isChangingScene) return;
+
+        // シーンが切り替わる前にスコアをセーブ
+        if (scoreManager != null)
+        {
+            scoreManager.GameOver();
+        }
+
         ButtonManager.SaveCurrentScene();
-        ChangeScene("3,2GameOver");
+
+        // 現在のシーン名を取得して分岐
+        string currentSceneName = SceneManager.GetActiveScene().name;
+
+        // もし現在のシーン名に「Endless」が含まれていたらリザルトへ
+        if (currentSceneName.Contains("2,4ENDLESS"))
+        {
+            ChangeScene("3,3ResultScene");
+        }
+        else
+        {
+            ChangeScene("3,2GameOver");
+        }
     }
 
     private void ChangeScene(string sceneName)
