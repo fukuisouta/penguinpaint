@@ -2293,7 +2293,7 @@ PrefabInstance:
     - target: {fileID: 4802270858349313406, guid: 0a1569fae893df84797cad4f7bc1031b, type: 3}
       propertyPath: clearSE
       value: 
-      objectReference: {fileID: 8300000, guid: ae966f37f58a1074b83c65b0333ee59e, type: 3}
+      objectReference: {fileID: 8300000, guid: fe47f12adc0ca2e41b3c5ab96e884f46, type: 3}
     - target: {fileID: 4802270858349313406, guid: 0a1569fae893df84797cad4f7bc1031b, type: 3}
       propertyPath: gameManager
       value: 
@@ -2652,7 +2652,7 @@ PrefabInstance:
       objectReference: {fileID: 1875737098}
     - target: {fileID: 7466027421153948018, guid: bb6ecd94d1c34e046bbc1143e3048a2d, type: 3}
       propertyPath: maxInk
-      value: 1000
+      value: 2000
       objectReference: {fileID: 0}
     - target: {fileID: 7466027421153948018, guid: bb6ecd94d1c34e046bbc1143e3048a2d, type: 3}
       propertyPath: m_Enabled
